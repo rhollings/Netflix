@@ -8,9 +8,17 @@ const requests = {
     fetchComedyMovies: `/discover/movie?api_key=${API_KEY}&with_genres=35`,
     fetchHorrorMovies: `/discover/movie?api_key=${API_KEY}&with_genres=27`,
     fetchRomanceMovies: `/discover/movie?api_key=${API_KEY}&with_genres=10749`,
-    fetchDocumentaries: `/discover/movie?api_key=${API_KEY}&with_genres=18`,
+    fetchMystery: `/discover/movie?api_key=${API_KEY}&with_genres=9648`,
     fetchRecommended: `/discover/movie?api_key=${API_KEY}&with_genres=12`,
-    fetchStuff: `/discover/movie?api_key=${API_KEY}&with_genres=`,
+    fetchAnime: `/discover/movie?api_key=${API_KEY}&with_genres=16`,
+    fetchCrime: `/discover/movie?api_key=${API_KEY}&with_genres=80`,
+    fetchFamily: `/discover/movie?api_key=${API_KEY}&with_genres=10751`,
+    fetchFantasy: `/discover/movie?api_key=${API_KEY}&with_genres=14`,
+    fetchWar: `/discover/movie?api_key=${API_KEY}&with_genres=10752`,
+    fetchTV: `/discover/movie?api_key=${API_KEY}&with_genres=10770`,
+    fetchWestern: `/discover/movie?api_key=${API_KEY}&with_genres=37`,
+    fecthSciFi: `/discover/movie?api_key=${API_KEY}&with_genres=878`,
+    fetchThrillers: `/discover/movie?api_key=${API_KEY}&with_genres=53`,
 }
 
 export default requests;
