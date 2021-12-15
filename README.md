@@ -2,6 +2,7 @@
 Here I have recreated the main page of Netflix using ReactJs 
 
 The page is depolyed using Firebase
+!!! Works better in Safari (Chrome updates made higher restrictions)
 
 API used comes from <a href="https://developer.imdb.com/">IMDB</a> website
 
