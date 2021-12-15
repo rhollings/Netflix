@@ -1,10 +1,7 @@
 # Netflix Clone
-Here I have recreated the main page of Netflix using ReactJs 
+This application (a Netflix clone) was built using React (Custom Hooks, Context), Firebase & Styled Components. I used compound components (just a design pattern) to build my components, and there's over 10 examples as to how these are used. The styling is all handled via styled components. Using compound components made my actual components really easy to test.
 
-The page is depolyed using Firebase
 !!! Works better in Safari (Chrome updates made higher restrictions)
-
-API used comes from <a href="https://developer.imdb.com/">IMDB</a> website
 
 Noticable Features added were
 - horizontal scrolling 
@@ -19,3 +16,5 @@ Noticable Features added were
   click me 👇
   <img width="1440" alt="Screen Shot 2021-05-05 at 11 56 00 AM" src="https://user-images.githubusercontent.com/75183667/117282506-1e681680-ae65-11eb-98ea-b1a197e94bee.png">
 </a>
+
+API used comes from <a href="https://developer.imdb.com/">IMDB</a> website
