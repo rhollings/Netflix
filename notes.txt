@@ -18,3 +18,5 @@ https://api.themoviedb.org/3/movie/550?api_key=46a2dc3e00bfb8d252619a2a4b272d53
 
 <!-- Initialize Firebase -->
 <script src="/__/firebase/init.js"></script>
+
+google-site-verification=MPcBKN6FSHhL92MQv55ZmCEAsOv6FiYfPga72X4T0V4 
